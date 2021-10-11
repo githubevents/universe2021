@@ -1,6 +1,6 @@
 # Code of Conduct
 
-The GitHub Universe 2020 Discussion Forum is intended to be a place for questions, feedback and chat related to sessions at the virtual GitHub Universe 2020 event. This is a civilized place for connecting with other attendees, and Hubbers from across the world taking part in the event. By participating in this community, you are agreeing to the same [Terms of Service](https://help.github.com/articles/github-terms-of-service) that apply to GitHub.com, as well as the GitHub Universe 2020 Discussion Forum specific Code of Conduct.
+The GitHub Universe 2021 Discussion Forum is intended to be a place for questions, feedback and chat related to sessions at the virtual GitHub Universe 2021 event. This is a civilized place for connecting with other attendees, and Hubbers from across the world taking part in the event. By participating in this community, you are agreeing to the same [Terms of Service](https://help.github.com/articles/github-terms-of-service) that apply to GitHub.com, as well as the GitHub Universe 2021 Discussion Forum specific Code of Conduct.
 
 With this Code of Conduct, we hope to help you understand how best to collaborate in  Discussions, what you can expect from moderators, and what type of actions or content may result in temporary or permanent suspension from this project. We will investigate any abuse reports and may moderate public content within the discussion that we determine to be in violation of either the GitHub Terms of Service or this Code of Conduct.
 
