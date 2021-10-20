@@ -1,10 +1,8 @@
 <img src="https://user-images.githubusercontent.com/20666190/136454574-f6b62855-3ca1-4420-b980-d72f0abfa8f9.png" width="300" alt="GitHub Universe Virtual 2021">
 
-[https://githubuniverse.com/](https://githubuniverse.com/)
+[https://githubuniverse.com](https://githubuniverse.com)
 &nbsp;•&nbsp;
 [Schedule](https://githubuniverse.com/schedule/)
-&nbsp;•&nbsp;
-[Speakers](https://githubuniverse.com//speakers/)
 &nbsp;•&nbsp;
 [Discussions](https://github.com/githubevents/universe2021/discussions)
 
