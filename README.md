@@ -23,7 +23,7 @@ We've enabled Discussions here for you to ask and answer questions about each se
 
 During each session our hosts will be picking questions from this discussions space to ask the presenter as part of the live-stream, so please do join in!
 
-Remember, we want to keep the discussions' area a friendly and welcoming place for everyone taking part in the event, and focused specifically and solely on the topic(s) covered in the event sessions. Therefore, please respect the [Event Code of Conduct]( https://docs.github.com/en/github/site-policy/github-event-code-of-conduct)  and be wonderful to each other.
+Remember, we want to keep the discussions' area a friendly and welcoming place for everyone taking part in the event, and **focused specifically and solely on the topic(s) covered in the GitHub Universe sessions**. Therefore, please respect the [Event Code of Conduct]( https://docs.github.com/en/github/site-policy/github-event-code-of-conduct)  and be wonderful to each other.
 
 This is a civilized place for connecting with other event attendees, and Hubbers from across the world taking part in the events. By participating in this community, you are agreeing to the same [Terms of Service](https://help.github.com/articles/github-terms-of-service) that apply to GitHub.com, as well as the GitHub Event [Code of Conduct](https://github.com/githubevents/Universe2021/blob/main/CODE_OF_CONDUCT.md).
 
